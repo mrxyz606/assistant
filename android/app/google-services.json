@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "191961232798",
+    "project_id": "behind-u",
+    "storage_bucket": "behind-u.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191961232798:android:b0fb0cdfb47894a03c528f",
+        "android_client_info": {
+          "package_name": "com.example.raamy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191961232798-enhar8q47fk5o8l2f0o28mos5o80nc18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRNPNdKFnSqLDXtAB6etwcHhk2_REFksY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191961232798-enhar8q47fk5o8l2f0o28mos5o80nc18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
